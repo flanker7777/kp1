@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="New Document Approvals">55bc06ab621501109182a21b75eb74ac</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <hide_see_all_button>false</hide_see_all_button>
+        <is_hidden_preference_name/>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:09</sys_created_on>
+        <sys_id>9dbc06ab301501105045dd9135685ea9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Document Approvals</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_item_section_9dbc06ab301501105045dd9135685ea9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:09</sys_updated_on>
+        <table/>
+        <title>New Document Approvals</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

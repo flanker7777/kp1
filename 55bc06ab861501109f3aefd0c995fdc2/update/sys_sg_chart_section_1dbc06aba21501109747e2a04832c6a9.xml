@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>d1bc06ab4f1501101aed5c68cf3c7aab,15bc06ab78150110b2b58a7607c747ab,91bc06abc91501107af4e5126bb279ab</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:13</sys_created_on>
+        <sys_id>1dbc06aba21501109747e2a04832c6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_chart_section_1dbc06aba21501109747e2a04832c6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:13</sys_updated_on>
+        <table/>
+        <title>Document Approvals</title>
+        <type>single_score</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

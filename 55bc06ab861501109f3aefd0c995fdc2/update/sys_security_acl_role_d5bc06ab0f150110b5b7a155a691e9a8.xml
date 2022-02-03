@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:16</sys_created_on>
+        <sys_id>d5bc06ab0f150110b5b7a155a691e9a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_563475_0_document_approval.</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_security_acl display_value="x_563475_0_document_approval">9dbc06ab1a1501100c85787c6fe558a6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d5bc06ab0f150110b5b7a155a691e9a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:16</sys_updated_on>
+        <sys_user_role display_value="x_563475_0.approver" name="x_563475_0.approver">ddbc06ab141501105442bb610420039c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

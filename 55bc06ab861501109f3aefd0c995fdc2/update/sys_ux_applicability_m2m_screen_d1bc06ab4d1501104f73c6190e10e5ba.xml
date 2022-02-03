@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Document Admin">5dbc06abf215011007a71516fa12d4b7</applicability>
+        <order>100</order>
+        <screen display_value="List Admin">91bc06ab5d150110296e1f811a19c5ba</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:16</sys_created_on>
+        <sys_id>d1bc06ab4d1501104f73c6190e10e5ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_d1bc06ab4d1501104f73c6190e10e5ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:16</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

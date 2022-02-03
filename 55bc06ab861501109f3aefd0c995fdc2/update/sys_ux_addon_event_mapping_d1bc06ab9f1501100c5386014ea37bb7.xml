@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Create New Document Approval Category</name>
+        <parent_macroponent display_value="List Admin">15bc06abea150110d16618d2aa310bb7</parent_macroponent>
+        <source_da display_value="create-new-doc-category">55bc06ab3f150110f98ac955670f1185</source_da>
+        <source_element_id>list</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d1bc06ab9f1501100c5386014ea37bb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Document Approval Category</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_d1bc06ab9f1501100c5386014ea37bb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:09</sys_updated_on>
+        <target_event display_value="LIST#NAV_ITEM_SELECTED">55bc06abec150110d1c6c28a3e0678b7</target_event>
+        <target_payload_mapping>{&#13;
+  "type": "MAP_CONTAINER",&#13;
+  "container": {&#13;
+    "route": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "route"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "fields": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "fields"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "multiInstField": "sysId",&#13;
+    "params": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "params"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "redirect": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "redirect"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "passiveNavigation": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "passiveNavigation"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "title": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "title"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "external": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "external"&#13;
+        ]&#13;
+      }&#13;
+    }&#13;
+  }&#13;
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

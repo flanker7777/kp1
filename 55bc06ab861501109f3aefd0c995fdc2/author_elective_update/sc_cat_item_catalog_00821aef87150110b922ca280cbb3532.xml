@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="ドキュメント承認申請">634216ef87150110b922ca280cbb35ed</sc_cat_item>
+        <sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:40:21</sys_created_on>
+        <sys_id>00821aef87150110b922ca280cbb3532</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>サービスカタログ.ドキュメント承認申請</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_00821aef87150110b922ca280cbb3532</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:40:21</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</application>
+        <file_path/>
+        <instance_id>370d5bd8dbcb738407072f17d49619d9</instance_id>
+        <instance_name>dev89931</instance_name>
+        <name>sc_cat_item_catalog_00821aef87150110b922ca280cbb3532</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="ドキュメント承認申請">634216ef87150110b922ca280cbb35ed</sc_cat_item><sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-02 06:40:21</sys_created_on><sys_id>00821aef87150110b922ca280cbb3532</sys_id><sys_mod_count>0</sys_mod_count><sys_name>サービスカタログ.ドキュメント承認申請</sys_name><sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package><sys_policy/><sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope><sys_update_name>sc_cat_item_catalog_00821aef87150110b922ca280cbb3532</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-02 06:40:21</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1716588155</payload_hash>
+        <record_name>サービスカタログ.ドキュメント承認申請</record_name>
+        <reverted_from/>
+        <source>93cc06e387150110b922ca280cbb359b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:40:21</sys_created_on>
+        <sys_id>48821aef87150110b922ca280cbb3546</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17eb929a74b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:40:21</sys_updated_on>
+        <type>カタログアイテムカタログ</type>
+        <update_guid>cc821aefd41501108c0cdea8c3c5ec45</update_guid>
+        <update_guid_history>cc821aefd41501108c0cdea8c3c5ec45:1716588155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="サービスカタログ.ドキュメント承認申請">f6825aef87150110b922ca280cbb3528</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:40:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>8933b9822e714b48a9f9b255eb508a10</sys_id>
+        <sys_metadata>00821aef87150110b922ca280cbb3532</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>サービスカタログ.ドキュメント承認申請</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_parent display_value="ドキュメント承認申請">634216ef87150110b922ca280cbb35ed</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_scope_delete display_value="">7cf0ebe310c6464eb7adb6e4a8334609</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_00821aef87150110b922ca280cbb3532</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_00821aef87150110b922ca280cbb3532">48821aef87150110b922ca280cbb3546</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:40:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
