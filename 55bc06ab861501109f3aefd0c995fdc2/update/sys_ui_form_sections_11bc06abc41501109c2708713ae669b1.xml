@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="11bc06abc41501109c2708713ae669b1" sys_domain="global" table="x_563475_0_document_approver" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-02 06:15:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51bc06abdc150110a31ab70d6e557eb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563475_0_document_approver" name="x_563475_0_document_approver" sys_domain="global" view="dab3b22d61140110c0a0df2cd71e2dc2">11bc06abc41501109c2708713ae669b1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_563475_0_document_approver" sys_domain="global" view="dab3b22d61140110c0a0df2cd71e2dc2">91bc06abcd1501100637e1f185fc83b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-02 06:15:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_563475_0_document_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-02 06:15:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11bc06abc41501109c2708713ae669b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_563475_0_document_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_11bc06abc41501109c2708713ae669b1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-02 06:15:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="ワークスペース" name="workspace">dab3b22d61140110c0a0df2cd71e2dc2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Document Approval">d9bc06ab27150110e863a4717a1040a9</applet_launcher>
+        <icon display_value="Document Approvals">51bc06abed1501100b1496cea55ce7aa</icon>
+        <label>Dcoument Approval</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:17</sys_created_on>
+        <sys_id>91bc06ab511501100fb3d52b09ecd7aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dcoument Approval</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_91bc06ab511501100fb3d52b09ecd7aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:17</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

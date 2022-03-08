@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_genius_result_configuration_m2m">
+    <ais_search_profile_ais_genius_result_configuration_m2m action="INSERT_OR_UPDATE">
+        <genius_result_configuration display_value="Document Approval Genius Result">59bc06ab9a150110aecd45f1d7861d83</genius_result_configuration>
+        <order>100</order>
+        <profile display_value="">9dbc06ab67150110ef5fd905af3eff84</profile>
+        <sys_class_name>ais_search_profile_ais_genius_result_configuration_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:15</sys_created_on>
+        <sys_id>19bc06abec1501105b8105315cf4d787</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Genius Result.</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>ais_search_profile_ais_genius_result_configuration_m2m_19bc06abec1501105b8105315cf4d787</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:15</sys_updated_on>
+    </ais_search_profile_ais_genius_result_configuration_m2m>
+</record_update>

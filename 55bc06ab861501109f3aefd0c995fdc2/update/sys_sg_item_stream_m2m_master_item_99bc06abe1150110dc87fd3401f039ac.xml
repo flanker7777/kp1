@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this month Item Stream">95bc06abfb150110fbaa382e7c25b4ac</item_stream>
+        <master_item display_value="Approvals this month Main Item">d9bc06ab9e150110b6e7253c769629ac</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:22</sys_created_on>
+        <sys_id>99bc06abe1150110dc87fd3401f039ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_99bc06abe1150110dc87fd3401f039ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:22</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

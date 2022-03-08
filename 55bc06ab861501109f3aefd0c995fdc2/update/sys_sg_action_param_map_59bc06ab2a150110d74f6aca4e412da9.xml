@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Return document">d5bc06ab011501107ae15487704ac2a9</button>
+        <item_parameter display_value="comments">19bc06aba0150110f27a3e0ab3b229a9</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:09</sys_created_on>
+        <sys_id>59bc06ab2a150110d74f6aca4e412da9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>19bc06aba0150110f27a3e0ab3b229a9</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_59bc06ab2a150110d74f6aca4e412da9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:09</sys_updated_on>
+        <ui_parameter display_value="Reason for returning">95bc06ab9f150110e2a45311cf9098a9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

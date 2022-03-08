@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to needs attention">5dbc06ab02150110ed6945e0452d97aa</jump_to_screen>
+        <name>Needs Attention</name>
+        <report display_value="Needs Attention">19bc06ab091501107c9ec98fc4c518a4</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:23</sys_created_on>
+        <sys_id>d1bc06ab4f1501101aed5c68cf3c7aab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs Attention</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_chart_d1bc06ab4f1501101aed5c68cf3c7aab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:23</sys_updated_on>
+        <title>Needs Attention</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

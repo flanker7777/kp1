@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="di_approvals_this_year">19bc06ab6d15011076c2628db3cf76ab</data_item>
+        <interleaved_field/>
+        <name>Approvals this year Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 06:15:09</sys_created_on>
+        <sys_id>59bc06abb2150110d1781cc989a6a7ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvals this year Item Stream</sys_name>
+        <sys_package display_value="ドキュメント申請アプリ" source="x_563475_0">55bc06ab861501109f3aefd0c995fdc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ドキュメント申請アプリ">55bc06ab861501109f3aefd0c995fdc2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_59bc06abb2150110d1781cc989a6a7ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 06:15:09</sys_updated_on>
+        <table>x_563475_0_document_approver</table>
+    </sys_sg_item_stream>
+</record_update>
